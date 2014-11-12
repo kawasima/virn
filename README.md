@@ -1,6 +1,13 @@
 virn
 =======
 
-It's vim clone.
+It's a vim clone.
 
-This is the live coding support tool at presentation.
+This is the live coding support tool at your presentation.
+
+## Install
+
+```sh
+% go get "github.com/gbin/goncurses"
+% go build virn.go
+```
